@@ -12,13 +12,13 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 ## SOS2223-13
 ---------------------------
 - **Team**
-   - [Luis Miguel Martín González] (https://github.com/luismg01)
+   - [Luis Miguel Martín González](https://github.com/luismg01)
    - [] 
    - []
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the evolution of the Andalusian population, the number of unemployed and different data from the local entities voted in the different provinces.
-- **Repository**: [https://github.com/gti-sos/SOS2223-13]
-- **URL**: http://sos2223-13.
+- **Repository**: [gti-sos/SOS2223-13](https://github.com/gti-sos/SOS2223-13)
+- **URL**: [http://sos2223-13]()
 - **APIs**:
-   - [https://sos2022-13/api/v1] (developed by Luis Miguel Martín González)
-   - [https://sos2022-13/api/v1] (developed by )
-   - [https://sos2022-13/api/v1] (developed by )
+   - [https://sos2022-13](https://sos2223-13) (developed by [Luis Miguel Martín González](https://github.com/luismg01))
+   - [https://sos2022-13] (developed by )
+   - [https://sos2022-13] (developed by )
