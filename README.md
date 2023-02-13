@@ -9,16 +9,16 @@ Lecturers:
 
 List of projects registered in the course of **Service Oriented Systems** (2022/2023):
 --
-SOS2223-13
+## SOS2223-13
 ---------------------------
-·Team
-   ○ Luis Miguel Martín González (https://github.com/luismg01)
-   ○ 
-   ○ 
-·Our sources of information are aimed at analyzing the relationship between the evolution of the Andalusian population, the number of unemployed and different data from the local entities voted in the different provinces.
-Repository: https://github.com/gti-sos/SOS2223-13
-URL: http://sos2223-13.
-APIs:
-https://sos2022-13/api/v1/my-awesome-resource-1/docs (developed by Luis Miguel Martín González)
-https://sos2022-13/api/v1/education-stats/docs (developed by )
-https://sos2022-13/api/v1/my-awesome-resource-3/docs (developed by )
+- **Team**
+   - [Luis Miguel Martín González] (https://github.com/luismg01)
+   - [] 
+   - []
+- **Project description**: Our sources of information are aimed at analyzing the relationship between the evolution of the Andalusian population, the number of unemployed and different data from the local entities voted in the different provinces.
+- **Repository**: [https://github.com/gti-sos/SOS2223-13]
+- **URL**: http://sos2223-13.
+- **APIs**:
+   - [https://sos2022-13/api/v1] (developed by Luis Miguel Martín González)
+   - [https://sos2022-13/api/v1] (developed by )
+   - [https://sos2022-13/api/v1] (developed by )
