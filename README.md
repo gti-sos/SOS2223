@@ -30,7 +30,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
   - [Víctor Ruiz Jiménez](https://github.com/vicruijim)
   - [Ignacio García Rodríguez](https://github.com/ign13101)
   - [Christian Asuero Carrellán](https://github.com/chrasucar342)
-- **Project description**: 
+- **Project description**: Analizar la relación que existe entre las asociaciones, las líneas teléfonicas y la proyección de hogares en Andalucía.
 - **Repository**: [gti-sos/SOS2223-11](https://github.com/gti-sos/SOS2223-11)
 - **URL**: 
 -  **APIs**:
@@ -58,7 +58,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
   - [Luis Miguel Martín González](https://github.com/luismg01)
   - [Irene Fernández Romero](https://github.com/irenefernandezromero)
   - [Jose López Berro](https://github.com/joslopber)
-- **Project description**: 
+- **Project description**: Analizar la relación que existe entre la evolución de la población de Andalucía, el número de parados y los partidos políticos votados en las distintas provincias.
 - **Repository**: [gti-sos/SOS2223-13](https://github.com/gti-sos/SOS2223-13)
 - **URL**: 
 -  **APIs**:
@@ -114,7 +114,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
   - [Jose Germinal Garrucho Orozco](https://github.com/Joseg0)
   - [Salim Chaieri Chafai](https://github.com/salcha2)
   - [Santiago Pineda Andrade](https://github.com/sanpinand)
-- **Project description**: 
+- **Project description**: Datos que abarcan el territorio andaluz según el año.
 - **Repository**: [gti-sos/SOS2223-17](https://github.com/gti-sos/SOS2223-17)
 - **URL**: 
 -  **APIs**:
@@ -183,7 +183,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
   - [Carlos Gata Masero](https://github.com/carlyg7)
   - [Antonio Carranza Barroso](https://github.com/carran97)
   - [Thomas Franciso Tejada Gordón](https://github.com/ThomasTejGor)
-- **Project description**: 
+- **Project description**: Analizar el aumento del empleo industrial en Andalucía.
 - **Repository**: [gti-sos/SOS2223-22](https://github.com/gti-sos/SOS2223-22)
 - **URL**: 
 -  **APIs**:
@@ -197,7 +197,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
   - [Agustín Manuel Jiménez Casas](https://github.com/agujimcas)
   - [Pablo Antonio Pérez Ortega](https://github.com/PabPerOrt1)
   - [Ricardo Vaz Rodríguez](https://github.com/ricardovrodri)
-- **Project description**: 
+- **Project description**: Analizar la interconexión en los datos entre las personas españolas contratadas en Andalucía según provincia, tipología de contratos y sexo, la densidad de población y los índices laborales de afiliación a la seguridad social, nuevos contratos y según tipo.
 - **Repository**: [gti-sos/SOS2223-23](https://github.com/gti-sos/SOS2223-23)
 - **URL**: 
 -  **APIs**:
