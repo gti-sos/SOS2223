@@ -13,7 +13,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 ---------------------------
 - **Team**
    - [Luis Miguel Martín González](https://github.com/luismg01)
-   - [] 
+   - [Jose López Berro] (https://github.com/joslopber)
    - []
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the evolution of the Andalusian population, the number of unemployed and different data from the local entities voted in the different provinces.
 - **Repository**: [gti-sos/SOS2223-13](https://github.com/gti-sos/SOS2223-13)
