@@ -22,3 +22,12 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
    - [https://sos2022-13](https://sos2223-13) (developed by [Luis Miguel Martín González](https://github.com/luismg01))
    - [https://sos2022-13](https://sos2223-13) (developed by [Jose López Berro](https://github.com/joslopber))
    - [https://sos2022-13] (developed by )
+  
+## SOS2223-21
+---------------------------
+- **Team**
+   - [Jorge Florentino Serra](https://github.com/jorgefl8)
+- **Project description**: Our sources of information are oriented to analyze the data of the annual provincial accounting of Andalusia. More specifically, comparing the gross domestic product at market prices, total jobs and the remuneration of employees.
+- **Repository**: [gti-sos/SOS2223-21](https://github.com/gti-sos/SOS2223-21)
+
+  
