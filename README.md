@@ -49,7 +49,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 
 - **Team:**
    - [Álvaro Maraver Lerma](https://github.com/AlvaroMaraverLerma)
-   - [Jorge Figueroa Romero]()
+   - [Jorge Figueroa Romero](https://github.com/jorfigrom)
    - [Víctor Egea Moncayo](https://github.com/victoregea)
 
 - **Project description**: Our project will consist of an analysis of the climate and air pollution in different libraries of Seville.
