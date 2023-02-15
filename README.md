@@ -44,13 +44,17 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **Project description**: Our sources of information are oriented to analyze the data of the annual provincial accounting of Andalusia. More specifically, comparing the gross domestic product at market prices, total jobs and the remuneration of employees.
 - **Repository**: [gti-sos/SOS2223-21](https://github.com/gti-sos/SOS2223-21)
 
+## SOS2223-12
 --------------------------
+
 - **Team:**
    - [Álvaro Maraver Lerma](https://github.com/AlvaroMaraverLerma)
    - [Jorge Figueroa Romero]()
-   - [Víctor Egea Moncayo]()
+   - [Víctor Egea Moncayo](https://github.com/victoregea)
 
 - **Project description**: Our project will consist of an analysis of the climate and air pollution in different libraries of Seville.
 - **Repository**: [gti-sos/SOS2223-12](https://github.com/gti-sos/SOS2223-12)
+
+-------------------------
 
   
