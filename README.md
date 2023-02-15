@@ -44,6 +44,16 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **Project description**: Our sources of information are oriented to analyze the data of the annual provincial accounting of Andalusia. More specifically, comparing the gross domestic product at market prices, total jobs and the remuneration of employees.
 - **Repository**: [gti-sos/SOS2223-21](https://github.com/gti-sos/SOS2223-21)
 
+## SOS2223-23
+---------------------------
+- **Team**
+   - [Agustín Manuel Jiménez Casas](https://github.com/agujimcas)
+   - []
+   - []
+- **Project description**: Our sources of information are aimed at analyzing the interconnection in the data between Spanish people hired in Andalusia according to province, type of contract and sex, population density and labor rates of affiliation to social security, new contracts and according to type.
+- **Repository**: [gti-sos/SOS2223-23](https://github.com/gti-sos/SOS2223-23)
+
+
 ## SOS2223-12
 --------------------------
 
