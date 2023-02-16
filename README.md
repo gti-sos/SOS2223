@@ -86,5 +86,11 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **Project description**: Our project will focus on analyzing the differences between the economy, the environment and the labor market in the different provinces over the years.
 - **Repository**: [gti-sos/SOS2223-10](https://github.com/gti-sos/SOS2223-10)
 
-  
-  
+## SOS2122-10
+
+- **Team**
+  - [Cristina Calderón García](https://github.com/criscalgar)
+  - [Rebeca Suárez Bascón](https://github.com/rebsuabas)
+  - [Ana Chávez Velasco](https://github.com/anachavel1)
+- **Project description**: Our project consists of analyzing the occupancy in tourist apartments, the tourism situation and hotel occupancy in Andalusia.
+- **Repository**: [gti-sos/SOS2223-14](https://github.com/gti-sos/SOS2223-14)
