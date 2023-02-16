@@ -46,14 +46,11 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 
 ## SOS2223-23
 ---------------------------
-
 - **Team**
    - [Agustín Manuel Jiménez Casas](https://github.com/agujimcas)
    - [Pablo Antonio Pérez Ortega](https://github.com/PabPerOrt1)
-   - [Ricardo Vaz Rodriguez](https://github.com/ricardovrodri)
-
+   - []
 - **Project description**: Our sources of information are aimed at analyzing the interconnection in the data between Spanish people hired in Andalusia according to province, type of contract and sex, population density and labor rates of affiliation to social security, new contracts and according to type.
-
 - **Repository**: [gti-sos/SOS2223-23](https://github.com/gti-sos/SOS2223-23)
 
 
@@ -80,14 +77,14 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **Repository**: [gti-sos/SOS2223-15](https://github.com/gti-sos/SOS2223-15)
 
 -------------------------
-## SOS2223-13
+## SOS2223-10
 ---------------------------
 - **Team**
    - [Joaquín Rodríguez Mariscal](https://github.com/joarodmar2)
    - [Rafael Díaz Quintero](https://github.com/rdiazq01)
    - [Rushabh Patel Patel] (https://github.com/rushabhp01)
 - **Project description**: our project will focus on analyzing the differences between the economy, the environment and the labor market in the different provinces over the years
-- **Repository**: [gti-sos/SOS2223-13](https://github.com/gti-sos/SOS2223-10)
+- **Repository**: [gti-sos/SOS2223-10](https://github.com/gti-sos/SOS2223-10)
 
   
   
