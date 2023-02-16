@@ -65,6 +65,17 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **Project description**: Our project will consist of an analysis of the climate and air pollution in different libraries of Seville.
 - **Repository**: [gti-sos/SOS2223-12](https://github.com/gti-sos/SOS2223-12)
 
+
+## SOS2223-15
+-------------------------
+- **Team:**
+   - [Ángel Marín Rodríguez](https://github.com/AngelUs04)
+   - []()
+   - []()
+
+- **Project description**: 
+- **Repository**: [gti-sos/SOS2223-15](https://github.com/gti-sos/SOS2223-15)
+
 -------------------------
 
   
