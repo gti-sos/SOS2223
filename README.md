@@ -21,7 +21,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **APIs**:
    - [https://sos2022-13](https://sos2223-13) (developed by [Luis Miguel Martín González](https://github.com/luismg01))
    - [https://sos2022-13](https://sos2223-13) (developed by [Jose López Berro](https://github.com/joslopber))
-   - [https://sos2022-13](https://sos2223-13) (developed by developed by [Irene Fernández Romero](https://github.com/irenefernandezromero))
+   - [https://sos2022-13](https://sos2223-13) (developed by [Irene Fernández Romero](https://github.com/irenefernandezromero))
   
 ## SOS2223-19
 ---------------------------
