@@ -149,3 +149,16 @@ self-employed people and number of emergency calls in Andalusia.
 - **Project description**: Comparison of the prices of agricultural products by area based on the number of greenhouses in the province
 - **Repository**: [gti-sos/SOS2223-24](https://github.com/gti-sos/SOS2223-24)
 
+--------------------------
+## SOS2223-22
+--------------------------
+
+- **Team:**
+   - Antonio Carranza Barroso (https://github.com/carran97)
+   - Carlos Gata Masero (https://github.com/)
+   - Thomas Tejeda Gordon (https://github.com/)
+
+- **Project description**: Nuestras fuentes de información esta orientadas a analizar el aumento del empleo industrial en Andalucía, y la tasa de accidentes.
+- **Repository**: [gti-sos/SOS2223-24](https://github.com/gti-sos/SOS2223-22)
+
+
