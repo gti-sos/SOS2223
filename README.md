@@ -163,3 +163,14 @@ self-employed people and number of emergency calls in Andalusia.
 
 
 
+--------------------------
+## SOS2223-22
+--------------------------
+
+- **Team:**
+   - [Antonio Carranza Barroso](https://github.com/carran97)
+   - [Carlos Gata Masero](https://github.com/carlyg7)
+   - [Thomas Tejeda Gordon](https://github.com/thomasTejGor)
+
+- **Project description**: Our sources of information are aimed at analyzing the increase in industrial employment in Andalusia, and the rate of accidents.
+- **Repository**: [gti-sos/SOS2223-22](https://github.com/gti-sos/SOS2223-22)
