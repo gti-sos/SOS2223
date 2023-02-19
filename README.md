@@ -146,5 +146,5 @@ self-employed people and number of emergency calls in Andalusia.
    - [Ouael Boussiali](https://github.com/OUABSL)
 
 - **Project description**: Comparison of the prices of agricultural products by area based on the number of greenhouses in the province
-- **Repository**: [gti-sos/SOS2223-18](https://github.com/gti-sos/SOS2223-24)
+- **Repository**: [gti-sos/SOS2223-24](https://github.com/gti-sos/SOS2223-24)
 
