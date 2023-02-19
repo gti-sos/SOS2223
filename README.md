@@ -166,7 +166,6 @@ self-employed people and number of emergency calls in Andalusia.
 --------------------------
 ## SOS2223-22
 --------------------------
-
 - **Team:**
    - [Antonio Carranza Barroso](https://github.com/carran97)
    - [Carlos Gata Masero](https://github.com/carlyg7)
