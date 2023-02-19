@@ -9,6 +9,16 @@ Lecturers:
 
 List of projects registered in the course of **Service Oriented Systems** (2022/2023):
 --
+## SOS2223-11
+---------------------------
+- **Team**
+   - [Víctor Ruiz Jiménez](https://github.com/vicruijim)
+   - [Ignacio García Rodríguez](https://github.com/ign13101)
+   - [Christian Asuero Carrellán](https://github.com/chrasucar342)
+- **Project description**:
+-**Repository**:
+
+
 ## SOS2223-13
 ---------------------------
 - **Team**
