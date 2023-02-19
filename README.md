@@ -125,3 +125,14 @@ self-employed people and number of emergency calls in Andalusia.
 - **Project description**: Our project will consist of an analysis of the migrations and the natural spaces in different provinces of Andalusia.
 - **Repository**: [gti-sos/SOS2223-18](https://github.com/gti-sos/SOS2223-18)
 
+-------------------------
+## SOS2223-11
+-------------------------
+- **Team**
+   - []()
+   - []()
+   - []()
+- **Project description**: Our project aims to analyze the correlations between associations, telephone lines and household structures.
+
+- **Repository**: []()
+
