@@ -38,7 +38,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 ## SOS2223-17
 ---------------------------
 - **Team**
-   - [Salim Chaieri Chafai](https://github.com/salcha2)
+   -   [Salim Chaieri Chafai](https://github.com/salcha2)
    - [Jose Germinal Garrucho Orozco](https://github.com/Joseg0)
    - [Santiago Pineda Andrade](https://github.com/sanpinand)
 - **Project description**:Our source of information is oriented to the use of bikes,number of 
