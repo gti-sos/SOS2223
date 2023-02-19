@@ -9,6 +9,17 @@ Lecturers:
 
 List of projects registered in the course of **Service Oriented Systems** (2022/2023):
 --
+## SOS2223-20
+--------------------------
+
+- **Team:**
+   - [Lorenzo Morales Palacios](https://github.com/Lukmare)
+   - [Miguel Ángel Salinas Macías](https://github.com/salinosaso)
+   - [Carmen García Muñoz](https://github.com/cargarmun)
+
+- **Project description**: Analysing the purpouse of public andalusian property, camping and blood donation.
+- **Repository**: [gti-sos/SOS2223-20](https://github.com/gti-sos/SOS2223-20)
+
 ## SOS2223-13
 ---------------------------
 - **Team**
@@ -31,6 +42,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 
 - **Project description**: Our source of information are supposed to analize the relation between occupancy in rural tourism and occupancy in camping sites
 - **Repository**: [gti-sos/SOS2223-19](https://github.com/gti-sos/SOS2223-19)
+
 
 ## SOS2223-17
 ---------------------------
@@ -148,4 +160,6 @@ self-employed people and number of emergency calls in Andalusia.
 
 - **Project description**: Comparison of the prices of agricultural products by area based on the number of greenhouses in the province
 - **Repository**: [gti-sos/SOS2223-24](https://github.com/gti-sos/SOS2223-24)
+
+
 
