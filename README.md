@@ -27,13 +27,10 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 ---------------------------
 - **Team**
    - [Bruno Alvaro Rico Barrilero](https://github.com/brico1994)
-   - []()
+   - [Jose Luis Navarro López-Montenegro](https://github.com/josnavlop4)
 
 - **Project description**: Our source of information are supposed to analize the relation between occupancy in rural tourism and occupancy in camping sites
 - **Repository**: [gti-sos/SOS2223-19](https://github.com/gti-sos/SOS2223-19)
-- **URL**: [**URL**: [http://sos2223-19.herokuapp.com]
-- **APIs**:
-   - [https://sos2223-19.herokuapp.com/api/v1/rural-areas/docs](https://sos2223-19.herokuapp.com/api/v1/rural-areas/docs) (developed by [Bruno Alvaro Rico Barrilero](https://github.com/brico1994))
 
 ## SOS2223-17
 ---------------------------
