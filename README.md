@@ -94,7 +94,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **Repository**: [gti-sos/SOS2223-10](https://github.com/gti-sos/SOS2223-10)
 
 ------------------
-## SOS2122-14
+## SOS2223-14
 ------------------
 - **Team**
   - [Cristina Calderón García](https://github.com/criscalgar)
