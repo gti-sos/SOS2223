@@ -17,7 +17,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
    - [Miguel Ángel Salinas Macías](https://github.com/salinosaso)
    - [Carmen García Muñoz](https://github.com/cargarmun)
 
-- **Project description**: Analysing the purpouse of public andalusian property, camping and blood donation.
+- **Project description**: Analysing the purpouse of public andalusian property, camping and blood donation focusing in Cordoba Zones.
 - **Repository**: [gti-sos/SOS2223-20](https://github.com/gti-sos/SOS2223-20)
 
 ## SOS2223-13
