@@ -132,7 +132,7 @@ self-employed people and number of emergency calls in Andalusia.
 
 - **Team:**
    - [Antonio Rumi Moreno](https://github.com/antrummor)
-   - [Adrián León Arjona](https://github.com/adrile15)
+   - [Adrian León Arjona](https://github.com/adrile15)
    - [Nicolás Jiménez Olmedo](https://github.com/nicolas-001)
 
 - **Project description**: Our project will consist of an analysis of the migrations and the natural spaces in different provinces of Andalusia.
