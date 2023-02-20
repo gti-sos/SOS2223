@@ -90,7 +90,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **Team:**
    - [Ángel Marín Rodríguez](https://github.com/AngelUs04)
    - [Jara Xiao del Viejo Pacheco](https://github.com/jardelpac01)
-   - []()
+   - [Mario Medina Santos](https://github.com/marmedsan6)
 
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the average salary of workers, the loss of job seekers and job seekers according to the level of studies completed by province, classification and gender.
 - **Repository**: [gti-sos/SOS2223-15](https://github.com/gti-sos/SOS2223-15)
