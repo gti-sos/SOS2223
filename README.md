@@ -17,7 +17,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
    - [Miguel Ángel Salinas Macías](https://github.com/salinosaso)
    - [Carmen García Muñoz](https://github.com/cargarmun)
 
-- **Project description**: Analysing the purpouse of public andalusian property, camping and blood donation.
+- **Project description**: Analysing the purpouse of public andalusian property, camping and blood donation focusing in Cordoba Zones.
 - **Repository**: [gti-sos/SOS2223-20](https://github.com/gti-sos/SOS2223-20)
 
 ## SOS2223-13
@@ -47,18 +47,22 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 ## SOS2223-17
 ---------------------------
 - **Team**
-   -   [Salim Chaieri Chafai](https://github.com/salcha2)
+   - [Salim Chaieri Chafai](https://github.com/salcha2)
    - [Jose Germinal Garrucho Orozco](https://github.com/Joseg0)
    - [Santiago Pineda Andrade](https://github.com/sanpinand)
-- **Project description**:Our source of information is oriented to the use of bikes,number of 
+- **Project description**:
+Our source of information is oriented to the use of bikes,number of 
 self-employed people and number of emergency calls in Andalusia.
 - **Repository**: [gti-sos/SOS2223-17](https://github.com/gti-sos/sos2223-17)
 
 ## SOS2223-21
 ---------------------------
+
 - **Team**
    - [Jorge Florentino Serra](https://github.com/jorgefl8)
    - [Pablo Vera López](https://github.com/pablovl95)
+   - [Setefilla Ruano Calzado](https://github.com/SetefillaRuano)
+
 
 - **Project description**: Our sources of information are oriented to analyze the data of the annual provincial accounting of Andalusia. More specifically, comparing the gross domestic product at market prices, total jobs and the remuneration of employees.
 - **Repository**: [gti-sos/SOS2223-21](https://github.com/gti-sos/SOS2223-21)
@@ -68,7 +72,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **Team**
    - [Agustín Manuel Jiménez Casas](https://github.com/agujimcas)
    - [Pablo Antonio Pérez Ortega](https://github.com/PabPerOrt1)
-   - []
+   - [Ricardo Vaz Rodriguez](https://github.com/ricardovrodri)
 - **Project description**: Our sources of information are aimed at analyzing the interconnection in the data between Spanish people hired in Andalusia according to province, type of contract and sex, population density and labor rates of affiliation to social security, new contracts and according to type.
 - **Repository**: [gti-sos/SOS2223-23](https://github.com/gti-sos/SOS2223-23)
 
@@ -90,7 +94,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **Team:**
    - [Ángel Marín Rodríguez](https://github.com/AngelUs04)
    - [Jara Xiao del Viejo Pacheco](https://github.com/jardelpac01)
-   - []()
+   - [Mario Medina Santos](https://github.com/marmedsan6)
 
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the average salary of workers, the loss of job seekers and job seekers according to the level of studies completed by province, classification and gender.
 - **Repository**: [gti-sos/SOS2223-15](https://github.com/gti-sos/SOS2223-15)
@@ -132,7 +136,7 @@ self-employed people and number of emergency calls in Andalusia.
 
 - **Team:**
    - [Antonio Rumi Moreno](https://github.com/antrummor)
-   - [Adrián León Arjona](https://github.com/adrile15)
+   - [Adrian León Arjona](https://github.com/adrile15)
    - [Nicolás Jiménez Olmedo](https://github.com/nicolas-001)
 
 - **Project description**: Our project will consist of an analysis of the migrations and the natural spaces in different provinces of Andalusia.
@@ -177,3 +181,13 @@ self-employed people and number of emergency calls in Andalusia.
 >>>>>>> bf667aa7218741b4581e74f490ac7474dcd7e4b6
 
 
+--------------------------
+## SOS2223-22
+--------------------------
+- **Team:**
+   - [Antonio Carranza Barroso](https://github.com/carran97)
+   - [Carlos Gata Masero ](https://github.com/carlyg7)
+   - [Thomas Tejeda Gordon](https://github.com/thomasTejGor)
+
+- **Project description**: Our sources of information are aimed at analyzing the increase in industrial employment in Andalusia, and  rate of accidents.
+- **Repository**: [gti-sos/SOS2223-22](https://github.com/gti-sos/SOS2223-22)
