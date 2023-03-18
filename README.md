@@ -96,7 +96,6 @@ self-employed people and number of emergency calls in Andalusia.
 --
 
 
-
 ## SOS2223-12
 --------------------------
 
