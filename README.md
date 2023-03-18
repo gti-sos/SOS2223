@@ -118,6 +118,12 @@ self-employed people and number of emergency calls in Andalusia.
    - [Rushabh Patel Patel](https://github.com/rushabhp01)
 - **Project description**: Our project will focus on analyzing the differences between the economy, the environment and the labor market in the different provinces over the years.
 - **Repository**: [gti-sos/SOS2223-10](https://github.com/gti-sos/SOS2223-10)
+- **URL**: https://sos2223-10.appspot.com
+- **APIs**:
+  - https://sos2223-10.ew.r.appspot.com/api/v1/economy-stats/docs (Joaquín Rodríguez Mariscal)
+  - https://sos2223-10.ew.r.appspot.com/api/v1/environment-stats/docs (Rushabh Patel Patel)
+  - https://sos2223-10.ew.r.appspot.com/api/v1/employment-stats/docs (Rafael Díaz Quíntero)
+
 
 ------------------
 ## SOS2223-14
