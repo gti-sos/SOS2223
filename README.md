@@ -59,6 +59,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **URL**: [sos2223-17.ew.r.appspot.com/](https://sos2223-17.ew.r.appspot.com/)
 - **APIs**:
    - [https://sos2223-17.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs](https://sos2223-17.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs) (developed by [Salim Chaieri Chafai](https://github.com/salcha2))
+   - [https://sos2223-17.appspot.com/api/v1/self-employed-stats/docs](https://sos2223-17.appspot.com/api/v1/self-employed-stats/docs) (developed by [Jose Germinal Garrucho Orozco](https://github.com/Joseg0))
 
 ## SOS2223-21
 ---------------------------
