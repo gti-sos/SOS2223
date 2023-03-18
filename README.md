@@ -120,9 +120,9 @@ self-employed people and number of emergency calls in Andalusia.
 - **Repository**: [gti-sos/SOS2223-10](https://github.com/gti-sos/SOS2223-10)
 - **URL**: https://sos2223-10.appspot.com
 - **APIs**:
-  - https://sos2223-10.ew.r.appspot.com/api/v1/economy-stats/docs (Joaquín Rodríguez Mariscal)
-  - https://sos2223-10.ew.r.appspot.com/api/v1/environment-stats/docs (Rushabh Patel Patel)
-  - https://sos2223-10.ew.r.appspot.com/api/v1/employment-stats/docs (Rafael Díaz Quíntero)
+  - https://sos2223-10.ew.r.appspot.com/api/v1/economy-stats/docs (developed by Joaquín Rodríguez Mariscal)
+  - https://sos2223-10.ew.r.appspot.com/api/v1/environment-stats/docs (developed by Rushabh Patel Patel)
+  - https://sos2223-10.ew.r.appspot.com/api/v1/employment-stats/docs (developed by Rafael Díaz Quíntero)
 
 
 ------------------
