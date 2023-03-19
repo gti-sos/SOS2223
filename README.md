@@ -228,3 +228,9 @@ self-employed people and number of emergency calls in Andalusia.
 
 - **Project description**: Our sources of information are aimed at analyzing the increase in industrial employment in Andalusia, and  rate of accidents.
 - **Repository**: [gti-sos/SOS2223-22](https://github.com/gti-sos/SOS2223-22)
+
+- **URL**: [https://sos2223-22.appspot.com/](https://sos2223-22.appspot.com/)
+
+- **APIs**
+   - [https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs](https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs) (developed by Antonio Carranza Barroso) 
+
