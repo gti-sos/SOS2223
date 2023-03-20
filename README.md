@@ -232,5 +232,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **URL**: [https://sos2223-22.appspot.com/](https://sos2223-22.appspot.com/)
 
 - **APIs**
-   - [https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs](https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs) (developed by Antonio Carranza Barroso) 
+   - [https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs](https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs) (developed by Antonio Carranza Barroso)
+   - [https://sos2223-22.appspot.com/api/v1/ICT-promotion-strategy-stats/docs](https://sos2223-22.appspot.com/api/v1/ICT-promotion-strategy-stats/docs) 
+(developed by Carlos Gata Masero)
 
