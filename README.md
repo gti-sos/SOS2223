@@ -48,6 +48,8 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **URL**: [http://sos2223-19.appspot.com/ ](http://sos2223-19.appspot.com/)
 - **APIs**:
    - [http://sos2223-19.appspot.com/api/v1/occupation-stats/docs](http://sos2223-19.appspot.com/api/v1/occupation-stats/docs) (developed by [Jose Luis Navarro López-Montenegro](https://github.com/josnavlop4))
+   - [http://sos2223-19.appspot.com/api/v1/occupancy-of-accomodation-in-rural-tourism/](http://sos2223-19.appspot.com/api/v1//occupancy-of-accomodation-in-rural-tourism/) (developed by [Jose Luis Navarro López-Montenegro](https://github.com/brico1994))
+
 
 ## SOS2223-17
 ---------------------------
