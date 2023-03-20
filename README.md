@@ -247,6 +247,6 @@ self-employed people and number of emergency calls in Andalusia.
 
 - **APIs**
    - [https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs](https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs) (developed by Antonio Carranza Barroso)
-   - [https://sos2223-22.appspot.com/api/v1/ICT-promotion-strategy-stats/docs](https://sos2223-22.appspot.com/api/v1/ICT-promotion-strategy-stats/docs) 
+   - [https://sos2223-22.appspot.com/api/v1/ict-promotion-strategy-stats/docs](https://sos2223-22.appspot.com/api/v1/ICT-promotion-strategy-stats/docs) 
 (developed by Carlos Gata Masero)
 
