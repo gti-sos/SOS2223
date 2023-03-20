@@ -19,6 +19,9 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 
 - **Project description**: Analysing the purpouse of public andalusian property, camping and blood donation focusing in Cordoba Zones.
 - **Repository**: [gti-sos/SOS2223-20](https://github.com/gti-sos/SOS2223-20)
+- **APIS:**
+   - https://sos2223-20.ew.r.appspot.com/api/v1/andalusian-campings/docs (Developed by Miguel Ángel Salinas)
+
 
 ## SOS2223-13
 ---------------------------
@@ -45,6 +48,8 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **URL**: [http://sos2223-19.appspot.com/ ](http://sos2223-19.appspot.com/)
 - **APIs**:
    - [http://sos2223-19.appspot.com/api/v1/occupation-stats/docs](http://sos2223-19.appspot.com/api/v1/occupation-stats/docs) (developed by [Jose Luis Navarro López-Montenegro](https://github.com/josnavlop4))
+   - [http://sos2223-19.appspot.com/api/v1/occupancy-of-accomodation-in-rural-tourism/](http://sos2223-19.appspot.com/api/v1//occupancy-of-accomodation-in-rural-tourism/) (developed by [Jose Luis Navarro López-Montenegro](https://github.com/brico1994))
+
 
 ## SOS2223-17
 ---------------------------
@@ -72,6 +77,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **URL**: [sos2223-21.ew.r.appspot.com/](https://sos2223-21.ew.r.appspot.com/)
 - **APIs**:
    - [https://sos2223-21.ew.r.appspot.com/api/v1/market-prices-stats/docs](https://sos2223-21.ew.r.appspot.com/api/v1/market-prices-stats/docs) (developed by [Jorge Florentino Serra](https://github.com/jorgefl8))
+   - [https://sos2223-21.ew.r.appspot.com/api/v1/workingplaces-stats/docs](https://sos2223-21.ew.r.appspot.com/api/v1/workingplaces-stats/docs) (developed by [Pablo Vera López](https://github.com/pablovl95))
 
 
 ## SOS2223-23
@@ -91,8 +97,8 @@ self-employed people and number of emergency calls in Andalusia.
 - **APIS DOCUMENTATION**: 
 
   - [http://sos2223-23.appspot.com/api/v1/ss-affiliates/docs](http://sos2223-23.appspot.com/api/v1/ss-affiliates/docs)  (developed by Ricardo Vaz Rodriguez)
-  - [http://sos2223-23.appspot.com/api/v1/density-population/docs](empty) (developed by Pablo Antonio Perez Ortega)
-  - [http://sos2223-23.appspot.com/api/v1/hired-people/docs](empty) (developed by Agustín Manuel Jiménez Casas)
+  - [http://sos2223-23.appspot.com/api/v1/density-population/docs](http://sos2223-23.appspot.com/api/v1/density-population/docs) (developed by Pablo Antonio Perez Ortega)
+  - [http://sos2223-23.appspot.com/api/v1/hired-people/docs](http://sos2223-23.appspot.com/api/v1/hired-people/docs) (developed by Agustín Manuel Jiménez Casas)
 
 
 
@@ -119,8 +125,11 @@ self-employed people and number of emergency calls in Andalusia.
 
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the average salary of workers, the loss of job seekers and job seekers according to the level of studies completed by province, classification and gender.
 - **Repository**: [gti-sos/SOS2223-15](https://github.com/gti-sos/SOS2223-15)
-- **URL**: [https://sos2223-15.ew.r.appspot.com/](https://sos2223-15.ew.r.appspot.com/)
+- **URL**: [https://sos2223-15.appspot.com/](https://sos2223-15.appspot.com/)
 - **APIs**:
+  - https://sos2223-15.appspot.com/api/v1/andalusian-population-salary-stats/docs (developed by Angel Marín Rodriguez)
+  - https://sos2223-15.appspot.com/api/v1/jobseekers-studies/docs (developed by Jara Xiao del Viejo Pacheco)
+  - https://sos2223-15.appspot.com/api/v1/loss-jobs/docs (developed by Mario Medina Santos)
 
 -------------------------
 ## SOS2223-10
@@ -203,13 +212,18 @@ self-employed people and number of emergency calls in Andalusia.
 --------------------------
 
 - **Team:**
-   - [Adolfo Rodriguez Cabezon](https://github.com/AdolfoRdgzCab)
-   - [Victor Manuel Sanchez Espada](https://github.com/vicsanesp)
+   - [Adolfo Rodríguez Cabezón](https://github.com/AdolfoRdgzCab)
+   - [Víctor Manuel Sánchez Espada](https://github.com/vicsanesp)
    - [Ouael Boussiali](https://github.com/OUABSL)
 
 - **Project description**: Comparison of the prices of agricultural products by area based on the number of greenhouses in the province
 - **Repository**: [gti-sos/SOS2223-24](https://github.com/gti-sos/SOS2223-24)
+- **URL**: [https://sos2223-24.appspot.com/](https://sos2223-24.appspot.com/)
 
+- **APIs**
+   - [https://sos2223-24.appspot.com/api/v1/agrodata-almeria/docs](https://sos2223-24.appspot.com/api/v1/agrodata-almeria/docs) (developed by Adolfo Rodríguez Cabezón) 
+   - [https://sos2223-24.appspot.com/api/v1/agroprices-weekly/docs](https://sos2223-24.appspot.com/api/v1/agroprices-weekly/docs) (developed by Víctor Manuel Sánchez Espada) 
+   - [https://sos2223-24.appspot.com/api/v1/provisions-for-the-year-2014/docs](https://sos2223-24.appspot.com/api/v1/provisions-for-the-year-2014s/docs) (developed by Ouael Boussiali) 
 
 
 --------------------------
@@ -223,3 +237,11 @@ self-employed people and number of emergency calls in Andalusia.
 
 - **Project description**: Our sources of information are aimed at analyzing the increase in industrial employment in Andalusia, and  rate of accidents.
 - **Repository**: [gti-sos/SOS2223-22](https://github.com/gti-sos/SOS2223-22)
+
+- **URL**: [https://sos2223-22.appspot.com/](https://sos2223-22.appspot.com/)
+
+- **APIs**
+   - [https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs](https://sos2223-22.appspot.com/api/v1/jobs-companies-innovation-stats/docs) (developed by Antonio Carranza Barroso)
+   - [https://sos2223-22.appspot.com/api/v1/ICT-promotion-strategy-stats/docs](https://sos2223-22.appspot.com/api/v1/ICT-promotion-strategy-stats/docs) 
+(developed by Carlos Gata Masero)
+
