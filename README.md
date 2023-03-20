@@ -19,6 +19,9 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 
 - **Project description**: Analysing the purpouse of public andalusian property, camping and blood donation focusing in Cordoba Zones.
 - **Repository**: [gti-sos/SOS2223-20](https://github.com/gti-sos/SOS2223-20)
+- **APIS:**
+   - https://sos2223-20.ew.r.appspot.com/api/v1/andalusian-campings/docs (Developed by Miguel Ángel Salinas)
+
 
 ## SOS2223-13
 ---------------------------
