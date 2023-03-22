@@ -195,7 +195,13 @@ self-employed people and number of emergency calls in Andalusia.
    - [Nicolás Jiménez Olmedo](https://github.com/nicolas-001)
 
 - **Project description**: Our project will consist of an analysis of the migrations and the natural spaces in different provinces of Andalusia.
+
 - **Repository**: [gti-sos/SOS2223-18](https://github.com/gti-sos/SOS2223-18)
+
+- **URL**: [https://sos2223-18.ew.r.appspot.com/](https://sos2223-18.ew.r.appspot.com/)
+
+- **APIs**:
+   - [https://sos2223-18.ew.r.appspot.com/api/v1/residential-variations-stats/docs](https://sos2223-18.ew.r.appspot.com/api/v1/residential-variations-stats/docs) (developed by Adrian León Arjona)
 
 -------------------------
 ## SOS2223-11
