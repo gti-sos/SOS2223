@@ -23,6 +23,7 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 - **APIS:**
    - https://sos2223-20.ew.r.appspot.com/api/v1/andalusian-campings/docs (Developed by Miguel Ángel Salinas)
    - https://sos2223-20.ew.r.appspot.com/api/v1/immovables/docs (Developed by Lorenzo Morales Palacios)
+   - http://sos2223-20.appspot.com/api/v1/blood-donations/docs (Developed by Carmen García Muñoz)
 
 
 ## SOS2223-13
@@ -83,6 +84,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **APIs**:
    - [https://sos2223-21.ew.r.appspot.com/api/v1/market-prices-stats/docs](https://sos2223-21.ew.r.appspot.com/api/v1/market-prices-stats/docs) (developed by [Jorge Florentino Serra](https://github.com/jorgefl8))
    - [https://sos2223-21.ew.r.appspot.com/api/v1/workingplaces-stats/docs](https://sos2223-21.ew.r.appspot.com/api/v1/workingplaces-stats/docs) (developed by [Pablo Vera López](https://github.com/pablovl95))
+     -  [https://sos2223-21.ew.r.appspot.com/api/v1/salaried-stats/docs](https://sos2223-21.ew.r.appspot.com/api/v1/salaried-stats/docs) (developed by [Setefilla Ruano Calzado](https://github.com/SetefillaRuano))
 
 
 ## SOS2223-23
@@ -135,7 +137,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **Repository**: [gti-sos/SOS2223-15](https://github.com/gti-sos/SOS2223-15)
 - **URL**: [https://sos2223-15.appspot.com/](https://sos2223-15.appspot.com/)
 - **APIs**:
-  - https://sos2223-15.appspot.com/api/v1/andalusian-population-salary-stats/docs (developed by Angel Marín Rodriguez)
+  - https://sos2223-15.appspot.com/api/v1/salary-stats/docs (developed by Angel Marín Rodriguez)
   - https://sos2223-15.appspot.com/api/v1/jobseekers-studies/docs (developed by Jara Xiao del Viejo Pacheco)
   - https://sos2223-15.appspot.com/api/v1/loss-jobs/docs (developed by Mario Medina Santos)
 
