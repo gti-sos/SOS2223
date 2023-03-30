@@ -63,13 +63,13 @@ List of projects registered in the course of **Service Oriented Systems** (2022/
 Our source of information is oriented to the use of bikes,number of 
 self-employed people and number of emergency calls in Andalusia.
 - **Repository**: [gti-sos/SOS2223-17](https://github.com/gti-sos/sos2223-17)
-- **URL**: [sos2223-17-381619.ew.r.appspot.com/](https://sos2223-17-381619.ew.r.appspot.com/)
+- **URL**: [sos2223-17.ew.r.appspot.com/](https://sos2223-17.ew.r.appspot.com/)
 - **APIs**:
-   - [https://sos2223-17-381619.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
+   - [https://sos2223-17.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
 
-[https://sos2223-17-381619.appspot.com/api/v1/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
+[https://sos2223-17.ew.r.appspot.com/api/v1/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
 
-[https://sos2223-17-381619.appspot.com/api/v1/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
+[https://sos2223-17.ew.r.appspot.com/api/v1/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
 
 ## SOS2223-21
 ---------------------------
