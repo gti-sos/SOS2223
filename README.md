@@ -68,14 +68,14 @@ self-employed people and number of emergency calls in Andalusia.
 - **APIs**:
 
 
-- [https://sos2223-17.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
-- [https://sos2223-17.ew.r.appspot.com/api/v2/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
+   - [https://sos2223-17.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
+   - [https://sos2223-17.ew.r.appspot.com/api/v2/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
 
-- [https://sos2223-17.ew.r.appspot.com/api/v1/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
-[https://sos2223-17.ew.r.appspot.com/api/v2/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
+   - [https://sos2223-17.ew.r.appspot.com/api/v1/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
+   - [https://sos2223-17.ew.r.appspot.com/api/v2/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
 
-- [https://sos2223-17.ew.r.appspot.com/api/v1/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
-- [https://sos2223-17.ew.r.appspot.com/api/v2/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
+   - [https://sos2223-17.ew.r.appspot.com/api/v1/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
+   - [https://sos2223-17.ew.r.appspot.com/api/v2/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
 
 ## SOS2223-21
 ---------------------------
