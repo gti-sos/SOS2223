@@ -191,6 +191,7 @@ self-employed people and number of emergency calls in Andalusia.
 - **URL**: [https://sos2223-16.appspot.com](https://sos2223-16.ew.r.appspot.com/)
 - **APIs**:
   - [https://sos2223-16.appspot.com/api/v1/professionalorganisations-stats/docs](https://sos2223-16.appspot.com/api/v1/professionalorganisations-stats/docs) (developed by Carolina Bernal Marchena)
+  - [https://sos2223-16.appspot.com/api/v2/professionalorganisations-stats/docs](https://sos2223-16.appspot.com/api/v2/professionalorganisations-stats/docs) (developed by Carolina Bernal Marchena)
   - [https://sos2223-16.ew.r.appspot.com/api/v1/civilwarandalusian-stats/docs](https://sos2223-16.ew.r.appspot.com/api/v1/civilWarAndalusian-stats/docs) (developed by Marcos Morales Campos)
   - [https://sos2223-16.ew.r.appspot.com/api/v1/cadizagroclimaticinformations-stats/docs](https://sos2223-16.ew.r.appspot.com/api/v1/cadizagroclimaticinformations-stats/docs) (developed by Carlos López Cárdenas)
 
