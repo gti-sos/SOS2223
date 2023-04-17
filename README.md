@@ -66,11 +66,14 @@ self-employed people and number of emergency calls in Andalusia.
 - **Repository**: [gti-sos/SOS2223-17](https://github.com/gti-sos/sos2223-17)
 - **URL**: [sos2223-17.ew.r.appspot.com/](https://sos2223-17.ew.r.appspot.com/)
 - **APIs**:
-   - [https://sos2223-17.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
+[https://sos2223-17.ew.r.appspot.com/api/v1/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
+[https://sos2223-17.ew.r.appspot.com/api/v2/andalusian-bicycle-plans/docs] (developed by Salim Chaieri Chafai)
 
 [https://sos2223-17.ew.r.appspot.com/api/v1/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
+[https://sos2223-17.ew.r.appspot.com/api/v2/self-employed-stats/docs] (developed by Jose Germinal Garrucho Orozco)
 
 [https://sos2223-17.ew.r.appspot.com/api/v1/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
+[https://sos2223-17.ew.r.appspot.com/api/v2/emergency-call-stats/docs] (developed by Santiago Pineda Andrade)
 
 ## SOS2223-21
 ---------------------------
